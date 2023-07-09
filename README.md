@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayaendres
 - 👀 I’m interested in React and UI development
-- 💞️ I’m looking to collaborate anything that helps people
 - 📫 ayaendres@gmail.com
 
 <!---
